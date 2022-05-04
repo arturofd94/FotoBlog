@@ -1,3 +1,3 @@
-## Lists
+## Integrantes
 
-- Create a list by starting a line with `+`, `-`, or `*`
++Arturo de la Fuente
