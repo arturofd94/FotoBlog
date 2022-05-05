@@ -108,6 +108,8 @@ header .container{
     font-family: monospace;
     background-color: #73648A;
     color: white;
+    display: flex;
+
 }
 
 h3 {
@@ -134,9 +136,26 @@ h3 {
  .ul1 {
      padding-bottom: 15px;
      display: grid;
-     
+     list-style-type: none;
      display: flex;
      flex-direction: column;
      gap: 5px;
      color: white;
  }
+
+ a{
+     color: white;
+     font-size: 25px;
+ }
+
+ a:hover{
+    font-size: 30px;
+    color: aqua;
+    cursor: pointer; 
+ }
+
+ a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
